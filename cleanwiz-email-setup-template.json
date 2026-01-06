@@ -1,8 +1,9 @@
 {
     "providerId": "cleanwiz",
+    "providerName": "CleanWiz",
     "serviceId": "email-setup",
+    "serviceName": "Email Setup",
     "version": 1,
-    "name": "CleanWiz Email Setup",
     "logoUrl": "https://cleanwiz.ai/logo.png",
     "description": "Automatically configure DNS records for CleanWiz email sending (DKIM and Return-Path).",
     "variableDescription": "Configuration for Postmark sender signature.",
